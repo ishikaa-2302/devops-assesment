@@ -1,1 +1,2 @@
 welcome to devops file3
+making changes in file 3 to see the effect of git fetch and git merge
